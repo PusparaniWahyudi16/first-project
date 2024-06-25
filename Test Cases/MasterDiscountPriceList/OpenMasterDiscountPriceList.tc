@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenMasterDiscountPriceList</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd00a9bb-00f0-450a-8a94-d640426bc536</testCaseGuid>
+</TestCaseEntity>
