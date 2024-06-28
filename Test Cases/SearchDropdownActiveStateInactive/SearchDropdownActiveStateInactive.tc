@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchDropdownActiveStateInactive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cbbaa142-fb5b-4522-b806-fae99bfeebd5</testCaseGuid>
+</TestCaseEntity>

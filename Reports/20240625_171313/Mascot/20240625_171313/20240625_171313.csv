@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Mascot,Chrome 126.0.0.0,,,25-06-2024 17:13:29,25-06-2024 17:16:55,3m - 26.145s,PASSED
+,,,,,,,
+Test Cases/MascotLogin001,Chrome 126.0.0.0,,,25-06-2024 17:13:29,25-06-2024 17:14:51,1m - 21.563s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,25-06-2024 17:13:30,25-06-2024 17:13:36,6.381s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,25-06-2024 17:13:36,25-06-2024 17:13:36,0.229s,PASSED
+delay(3),Chrome 126.0.0.0,,,25-06-2024 17:13:36,25-06-2024 17:13:39,3.073s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""login before"")",Chrome 126.0.0.0,,,25-06-2024 17:13:39,25-06-2024 17:13:43,3.172s,PASSED
+delay(3),Chrome 126.0.0.0,,,25-06-2024 17:13:43,25-06-2024 17:13:46,3.021s,PASSED
+"navigateToUrl(""http://206.189.158.91:8080/sparepart-factory-cms/login.zul
+"")",Chrome 126.0.0.0,,,25-06-2024 17:13:46,25-06-2024 17:14:37,51.016s,PASSED
+delay(3),Chrome 126.0.0.0,,,25-06-2024 17:14:37,25-06-2024 17:14:40,3.024s,PASSED
+"setText(findTestObject(""Login/Username""), ""sadm001"")",Chrome 126.0.0.0,,,25-06-2024 17:14:40,25-06-2024 17:14:40,0.875s,PASSED
+delay(3),Chrome 126.0.0.0,,,25-06-2024 17:14:40,25-06-2024 17:14:44,3.016s,PASSED
+"setEncryptedText(findTestObject(""Login/Password""), ""da8fEzhczGg="")",Chrome 126.0.0.0,,,25-06-2024 17:14:44,25-06-2024 17:14:44,0.964s,PASSED
+delay(3),Chrome 126.0.0.0,,,25-06-2024 17:14:44,25-06-2024 17:14:47,3.015s,PASSED
+"click(findTestObject(""Login/ButtonLogin""))",Chrome 126.0.0.0,,,25-06-2024 17:14:47,25-06-2024 17:14:48,0.417s,PASSED
+delay(3),Chrome 126.0.0.0,,,25-06-2024 17:14:48,25-06-2024 17:14:51,3.019s,PASSED
+,,,,,,,
+Test Cases/MasterArea1/OpenMasterArea1,Chrome 126.0.0.0,,,25-06-2024 17:14:51,25-06-2024 17:16:55,2m - 4.319s,PASSED
+"openBrowser(""http://206.189.158.91:8080/sparepart-factory-cms/login.zul"")",Chrome 126.0.0.0,,,25-06-2024 17:14:51,25-06-2024 17:16:34,1m - 42.560s,PASSED
+"setText(findTestObject(""Login/Username""), ""sadm001"")",Chrome 126.0.0.0,,,25-06-2024 17:16:34,25-06-2024 17:16:34,0.782s,PASSED
+"setText(findTestObject(""Login/Password""), ""Abc123!"")",Chrome 126.0.0.0,,,25-06-2024 17:16:34,25-06-2024 17:16:35,0.685s,PASSED
+"click(findTestObject(""Login/ButtonLogin""))",Chrome 126.0.0.0,,,25-06-2024 17:16:35,25-06-2024 17:16:36,0.459s,PASSED
+delay(1),Chrome 126.0.0.0,,,25-06-2024 17:16:36,25-06-2024 17:16:37,1.009s,PASSED
+"click(findTestObject(""MasterArea1/MasterArea1""))",Chrome 126.0.0.0,,,25-06-2024 17:16:37,25-06-2024 17:16:54,17.684s,PASSED
+delay(1),Chrome 126.0.0.0,,,25-06-2024 17:16:54,25-06-2024 17:16:55,1.016s,PASSED

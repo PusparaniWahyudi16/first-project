@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchNFCNFCTagContent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>274cdb13-d307-4962-ae3e-38a792303afd</testCaseGuid>
+</TestCaseEntity>

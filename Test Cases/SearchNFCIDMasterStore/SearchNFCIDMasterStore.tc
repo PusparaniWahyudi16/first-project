@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchNFCIDMasterStore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0bddc26-8407-4710-8c4d-4ecf15489787</testCaseGuid>
+</TestCaseEntity>
